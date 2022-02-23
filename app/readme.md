@@ -1,0 +1,1 @@
+This app behave differently for different screen size
